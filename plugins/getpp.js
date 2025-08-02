@@ -40,7 +40,7 @@ async (conn, mek, m, { from, sender, reply, isGroup }) => {
       },
       message: {
         contactMessage: {
-          displayName: "CASEYRHODES TECH ✅",
+          displayName: "SACHITHRA MADUSANKA ✅",
           vcard: "BEGIN:VCARD\nVERSION:3.0\nFN: CASEYRHODES ✅\nORG: CASEYRHODES-XMD;\nTEL;type=CELL;type=VOICE;waid=254700000000:+254 700 000000\nEND:VCARD",
           jpegThumbnail: Buffer.from([])
         }
@@ -55,8 +55,8 @@ async (conn, mek, m, { from, sender, reply, isGroup }) => {
         forwardingScore: 5,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterName: "CASEYRHODES-XMD",
-          newsletterJid: "120363302677217436@newsletter"
+          newsletterName: "BLOOD - XMD",
+          newsletterJid: "120363419102725912@newsletter"
         }
       }
     }, { quoted: fakeVCard });
