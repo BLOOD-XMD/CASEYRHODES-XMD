@@ -16,10 +16,10 @@ try{
 let repo =`
 *╭──────────────●●►*
 > *BOT OWNER:*
-*|* *CASEYWEB*
+*|* *SACHITHRA MADUSANKA*
 
 > *CASEYWEB REPO:*
-*|* https://github.com/caseyweb/CASEYRHODES XMD
+*|* https://github.com/
 
 > *SUPPORT GROUP:*
 *|* https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h
