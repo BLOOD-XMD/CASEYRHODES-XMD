@@ -11,7 +11,7 @@ cmd({
 },
 async (conn, mek, m, { from, sender, isBotAdmins, isGroup, reply }) => {
     // Verify group context
-    if (!isGroup) return reply("❌ This command can only be used in groups.");
+    if (!isGroup) return reply(" This command can only be used in groups.");
 
     // Verify bot is admin
     if (!isBotAdmins) return reply("❌ I need to be an admin to perform this action.");
